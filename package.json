@@ -1,7 +1,7 @@
 {
-  "name": "lab4",
+  "name": "comp2156",
   "version": "1.0.0",
-  "description": "",
+  "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
@@ -15,6 +15,6 @@
     "url": "https://github.com/MahirLabibul15/COMP2156/issue"
   },
   "homepage": "https://github.com/MahirLabibul15/COMP2156#readme",
-  "author": "",
+  "author": "Mahir Labibul Haque",
   "license": "ISC"
 }
